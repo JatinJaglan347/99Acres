@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 --------
 
-Deployed at :- https://99-acres-gilt.vercel.app/
+Deployed at :- https://99-acres-seven.vercel.app/
 
 --------
 
